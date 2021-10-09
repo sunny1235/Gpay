@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: Colors.blueAccent[400],
         centerTitle: true,
-        title: const Text('Gpay but NoPay'),
+        title: const Text('Gpay'),
       ),
       body: Container(
         margin: const EdgeInsets.only(top: 100),
